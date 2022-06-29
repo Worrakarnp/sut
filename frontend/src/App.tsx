@@ -26,7 +26,6 @@ import SearchIcon from "@material-ui/icons/Search";
 
 //import FindInPageIcon from '@material-ui/icons/FindInPage';
 import HomeIcon from "@material-ui/icons/Home";
-//import VerticalAlignTopIcon from '@material-ui/icons/VerticalAlignTop';
 import FaceIcon from '@material-ui/icons/Face';
 import GroupIcon from '@material-ui/icons/Group';
 import BusinessCenterIcon from '@material-ui/icons/BusinessCenter';

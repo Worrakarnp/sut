@@ -3,8 +3,8 @@ package controller
 import (
 	"net/http"
 
+	"github.com/Worrakarnp/suta/entity"
 	"github.com/gin-gonic/gin"
-	"github.com/sut64/team14/entity"
 )
 
 // POST /categories
@@ -76,4 +76,3 @@ func UpdateCategory(c *gin.Context) {
 
 	c.JSON(http.StatusOK, gin.H{"data": category})
 }
-

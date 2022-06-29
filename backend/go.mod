@@ -1,4 +1,4 @@
-module github.com/sut64/team14
+module github.com/Worrakarnp/suta
 
 go 1.16
 

@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
+	"github.com/Worrakarnp/suta/service"
 	"github.com/gin-gonic/gin"
-	"github.com/sut64/team14/service"
 )
 
 // validates token

@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/Worrakarnp/suta/controller"
+	"github.com/Worrakarnp/suta/entity"
+	"github.com/Worrakarnp/suta/middlewares"
 	"github.com/gin-gonic/gin"
-	"github.com/sut64/team14/controller"
-	"github.com/sut64/team14/entity"
-	"github.com/sut64/team14/middlewares"
 )
 
 func main() {

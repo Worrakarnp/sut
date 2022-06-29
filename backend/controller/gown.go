@@ -3,9 +3,9 @@ package controller
 import (
 	"net/http"
 
+	"github.com/Worrakarnp/suta/entity"
 	"github.com/asaskevich/govalidator"
 	"github.com/gin-gonic/gin"
-	"github.com/sut64/team14/entity"
 )
 
 // POST /gown
